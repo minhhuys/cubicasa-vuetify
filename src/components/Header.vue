@@ -40,7 +40,7 @@
               stroke-width="2"
               fill="white"
             ></feather>
-            Nguyen Le Thu Hien Huy
+            Nguyen Minh Huy
             <div class="arrow-down"></div>
           </v-btn>
         </template>
