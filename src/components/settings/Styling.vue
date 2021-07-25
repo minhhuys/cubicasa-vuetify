@@ -82,7 +82,7 @@
     <h3 class="text-center tab-title mb-2 mt-5">Floor plan theme</h3>
     <hr class="mb-2" />
 
-    <v-layout row wrap align-center justify-center no-gutters>
+    <v-layout row wrap align-center justify-center no-gutters setting-color>
       <v-flex xs12 md6 my-2 px-2>
         <div class="d-flex">
           <v-swatches
